@@ -1,13 +1,13 @@
 {
-    "name":"devourment77/htmlawed",
-    "description":"htmLawed - Customized to allow the allowfullscreen attribute on iframes.",
-    "keywords":[ "html", "strip", "HTMLtidy", "tags", "sanitize" ],
-    "homepage":"http://www.bioinformatics.org/phplabware/internal_utilities/htmLawed/",
+    "name":"robertchristophersmith/htmlawed",
+    "description":"htmLawed - version 1.2 beta 5 featuring HTML 5 support and PHP 5.5 compatibility (dropping preg_replace function)",
+    "keywords":[ "html", "strip", "HTMLtidy", "tags", "sanitize", "clean", "filter", "utility", "tools" ],
+    "homepage":"http://www.bioinformatics.org/phplabware/internal_utilities/htmLawed/beta/",
     "license":[
         "GPL-2.0+",
         "LGPL-3.0"
     ],
-    "version":"1.1.17",
+    "version":"1.2.BETA5",
     "require":{
         "php":">4.4.0"
     },
